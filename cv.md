@@ -1,20 +1,15 @@
 # Maksim Aisin
 _Junior Frontend Developer_
 
-## Photo:
-
+![me](https://user-images.githubusercontent.com/39880369/146690001-729422a8-ce19-4474-824e-907716d99906.jpg)
 
 
 ## Contact information
 
-Phone: +7 916 070 56 87
-
-Email: maksim.aisin@mail.ru
-
-GitHub: https://github.com/TavaniX
-
-Discord RS School: Maksim Aisin (@TavaniX)
-
+**Phone:** +7 916 070 56 87
+**Email:** maksim.aisin@mail.ru
+**GitHub:** https://github.com/TavaniX
+**Discord RS School:** Maksim Aisin (@TavaniX)
 
 ## About Me
 I have knowledge of the software development life cycle, various development methodologies (Agile values and Scrum approach)
