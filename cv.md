@@ -52,7 +52,9 @@ My main focus was identification of business/user needs, validation of system re
 
 ## Projects and Code examples
 
-[GitHub Pages](https://github.com/TavaniX/tavanix.github.io)
+[Vanilla JavaScript Projects](https://github.com/TavaniX/tavanix.github.io)
+[CRA Burger Shop](https://github.com/TavaniX/cra-burger-shop)
+[CRA Furniture Shop](https://github.com/TavaniX/cra-shop-amado)
 
 ## Courses
 - RS Schools Course «JavaScript/Frontend. Stage 0» (in progress)
@@ -63,11 +65,9 @@ My main focus was identification of business/user needs, validation of system re
 
 ## Education
 ### 2015 - Computer Training Center "Specialist" at Bauman Moscow State Technical University
-
 Database development and administration
 
 ### 2012 - Moscow Humanitarian-Economic Institute, Moscow
-
 Master’s degree in Finance, Economist
 
 ## Languages
