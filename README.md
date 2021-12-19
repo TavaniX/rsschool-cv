@@ -1,2 +1,4 @@
-# rsschool-cv
-My Curriculum Vitae
+# Curriculum Vitae
+## Maksim Aisin
+
+https://tavanix.github.io/rsschool-cv/cv
