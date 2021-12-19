@@ -4,6 +4,7 @@ _Junior Frontend Developer_
 ## Photo:
 
 
+
 ## Contact information
 
 Phone: +7 916 070 56 87
