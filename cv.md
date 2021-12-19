@@ -6,13 +6,10 @@ _Junior Frontend Developer_
 
 ## Contact information
 
-**Phone:** +7 916 070 56 87
-
-**Email:** maksim.aisin@mail.ru
-
-**GitHub:** https://github.com/TavaniX
-
-**Discord RS School:** Maksim Aisin (@TavaniX)
+**Phone:** +7 916 070 56 87   
+**Email:** maksim.aisin@mail.ru   
+**GitHub:** https://github.com/TavaniX   
+**Discord RS School:** Maksim Aisin (@TavaniX)   
 
 
 ## About Me
@@ -52,9 +49,9 @@ My main focus was identification of business/user needs, validation of system re
 
 ## Projects and Code examples
 
-[Vanilla JavaScript Projects](https://github.com/TavaniX/tavanix.github.io)
-[CRA Burger Shop](https://github.com/TavaniX/cra-burger-shop)
-[CRA Furniture Shop](https://github.com/TavaniX/cra-shop-amado)
+[Vanilla JavaScript Projects](https://github.com/TavaniX/tavanix.github.io)   
+[CRA Burger Shop](https://github.com/TavaniX/cra-burger-shop)   
+[CRA Furniture Shop](https://github.com/TavaniX/cra-shop-amado)   
 
 ## Courses
 - RS Schools Course «JavaScript/Frontend. Stage 0» (in progress)
