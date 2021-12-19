@@ -1,8 +1,9 @@
 # Maksim Aisin
 _Junior Frontend Developer_
----
+
 ## Photo:
----
+
+
 ## Contact information
 
 Phone: +7 916 070 56 87
@@ -13,7 +14,7 @@ GitHub: https://github.com/TavaniX
 
 Discord RS School: Maksim Aisin (@TavaniX)
 
----
+
 ## About Me
 I have knowledge of the software development life cycle, various development methodologies (Agile values and Scrum approach)
 
@@ -21,7 +22,6 @@ I understand the structures of the client server applications, the purpose of th
 
 I’m ready to compensate the lack of work experience in web development by quick learning, curiosity, perseverance, high productivity and communication skills. I’m a strong team player.
 
----
 ## Work experience
 My work experience is basically related to HR function (in FMCG, Retail, International airport) – I’ve been working in budgeting and reporting streams starting from 2014 on various positions (beginning as specialist, growing to a head of department with 4 direct reports). 
 
@@ -29,7 +29,6 @@ During my career I have been always participating in cross-functional IT project
 
 My main focus was identification of business/user needs, validation of system requirements specification, testing (functional, regression and integration testing), analysis of defects and control of their fixing, user acceptance testing and preparation for product deployment (communication campaign, writing user manuals and conducting end-user trainings).
 
----
 ## Skills
 - HTML5
 - CSS3
@@ -40,7 +39,6 @@ My main focus was identification of business/user needs, validation of system re
 - Node JS (beginner)
 - Understanding of software development lifecycle
 
----
 ## Applications
 - Code editors: 
   - VS Code 
@@ -52,26 +50,24 @@ My main focus was identification of business/user needs, validation of system re
   - DBeaver 
   - MySQL Workbench
 
----
-## Projects
+## Projects and Code examples
 
 [GitHub Pages](https://github.com/TavaniX/tavanix.github.io)
 
----
 ## Courses
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 - Udemy (in progress)
 - HackerU
 
----
 ## Education
 ### 2015 - Computer Training Center "Specialist" at Bauman Moscow State Technical University
-#### Database development and administration
+
+Database development and administration
 
 ### 2012 - Moscow Humanitarian-Economic Institute, Moscow
-#### Master’s degree in Finance, Economist
 
----
+Master’s degree in Finance, Economist
+
 ## Languages
 - Russian – native
 - English – upper-intermediate
