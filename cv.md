@@ -7,9 +7,13 @@ _Junior Frontend Developer_
 ## Contact information
 
 **Phone:** +7 916 070 56 87
+
 **Email:** maksim.aisin@mail.ru
+
 **GitHub:** https://github.com/TavaniX
+
 **Discord RS School:** Maksim Aisin (@TavaniX)
+
 
 ## About Me
 I have knowledge of the software development life cycle, various development methodologies (Agile values and Scrum approach)
@@ -51,9 +55,11 @@ My main focus was identification of business/user needs, validation of system re
 [GitHub Pages](https://github.com/TavaniX/tavanix.github.io)
 
 ## Courses
-- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-- Udemy (in progress)
-- HackerU
+- RS Schools Course «JavaScript/Frontend. Stage 0» (in progress)
+- [Udemy](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) (in progress)
+- HackerU: Fullstack Web Developer:
+  - [Certificate](https://yadi.sk/i/v_Waa1o6LU5q0g)
+  - [Diploma](https://yadi.sk/i/9Ia2_Gro3q2odQ)
 
 ## Education
 ### 2015 - Computer Training Center "Specialist" at Bauman Moscow State Technical University
