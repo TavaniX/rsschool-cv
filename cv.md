@@ -15,7 +15,7 @@ _Junior Frontend Developer_
 
 
 ## About Me
-I've been studying web development since 2020. Since then I have solid understanding of the software development life cycle, various development methodologies (Agile values and Scrum approach), QA principles, the structures of the client server applications, the structure of the request / response, and the HTTP methods. Of course as I'm interested in frontend development I enjoy learning HTML/CSS/JS a lot (please see below some [projects][1])
+I've been studying web development since 2020. Since then I have gained solid understanding of the software development life cycle, various development methodologies (Agile values and Scrum approach), version control management systems, QA principles, the structures of the client server applications, and the structure of the request / response and the HTTP methods. Of course as I'm interested in frontend development I enjoy learning HTML/CSS/JS a lot (please see some of projects [here][1])
 
 [1]: https://github.com/TavaniX/tavanix.github.io
 
