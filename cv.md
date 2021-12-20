@@ -1,7 +1,7 @@
 # Maksim Aisin
 _Junior Frontend Developer_
 
-![me](https://user-images.githubusercontent.com/39880369/146690001-729422a8-ce19-4474-824e-907716d99906.jpg)
+![me](https://user-images.githubusercontent.com/39880369/146690001-729422a8-ce19-4474-824e-907716d99906.jpg "Maksim Aisin")
 
 
 ## Contact information
@@ -9,15 +9,14 @@ _Junior Frontend Developer_
 | Type | Value | 
 |-----------|-----------|  
 | Phone | +7 916 070 56 87 | 
-| Email | maksim.aisin@mail.ru |
-| GitHub | https://github.com/TavaniX |
+| Email | ![](maksim.aisin@mail.ru) |
+| GitHub | ![](https://github.com/TavaniX) |
 | Discord | Maksim Aisin (@TavaniX) |
 
 
 ## About Me
-I have knowledge of the software development life cycle, various development methodologies (Agile values and Scrum approach)
-
-I understand the structures of the client server applications, the purpose of the HTTP (s) protocol, the structure of the request / response, and the HTTP methods.
+I've been studying web development since 2020. Since then I have solid understanding of the software development life cycle, various development methodologies (Agile values and Scrum approach), QA principles, the structures of the client server applications, the structure of the request / response, and the HTTP methods. Of course as I'm interested in frontend development I enjoy learning HTML/CSS/JS a lot (please see below some [projects][1])
+[1]: https://github.com/TavaniX/tavanix.github.io
 
 I’m ready to compensate the lack of work experience in web development by quick learning, curiosity, perseverance, high productivity and communication skills. I’m a strong team player.
 
@@ -27,6 +26,8 @@ My work experience is basically related to HR function (in FMCG, Retail, Interna
 During my career I have been always participating in cross-functional IT projects on implementation of new systems and tools or upgrade to a new version.
 
 My main focus was identification of business/user needs, validation of system requirements specification, testing (functional, regression and integration testing), analysis of defects and control of their fixing, user acceptance testing and preparation for product deployment (communication campaign, writing user manuals and conducting end-user trainings).
+
+But it started to seem to me complicated (building and deploying standalone applications) after one project, where we developed a solution, which allowed to use web browser. That was the moment when I started to take a deep interest in web development and my journey began!
 
 ## Skills
 - HTML5
@@ -81,4 +82,4 @@ Master’s degree in Finance, Economist
 
 ## Languages
 - Russian – native
-- English – upper-intermediate
+- English – fluent
