@@ -9,13 +9,14 @@ _Junior Frontend Developer_
 | Type | Value | 
 |-----------|-----------|  
 | Phone | +7 916 070 56 87 | 
-| Email | ![](maksim.aisin@mail.ru) |
-| GitHub | ![](https://github.com/TavaniX) |
+| Email | maksim.aisin@mail.ru |
+| GitHub | https://github.com/TavaniX |
 | Discord | Maksim Aisin (@TavaniX) |
 
 
 ## About Me
 I've been studying web development since 2020. Since then I have solid understanding of the software development life cycle, various development methodologies (Agile values and Scrum approach), QA principles, the structures of the client server applications, the structure of the request / response, and the HTTP methods. Of course as I'm interested in frontend development I enjoy learning HTML/CSS/JS a lot (please see below some [projects][1])
+
 [1]: https://github.com/TavaniX/tavanix.github.io
 
 I’m ready to compensate the lack of work experience in web development by quick learning, curiosity, perseverance, high productivity and communication skills. I’m a strong team player.
