@@ -47,8 +47,18 @@ My main focus was identification of business/user needs, validation of system re
   - DBeaver 
   - MySQL Workbench
 
-## Projects and Code examples
+## Code examples
+**Descending Order**
 
+Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
+
+```
+function descendingOrder(n){
+  return parseInt([...n.toString()].sort().reverse().join(''))
+}
+```
+
+## Projects
 [Vanilla JavaScript Projects](https://github.com/TavaniX/tavanix.github.io)   
 [CRA Burger Shop](https://github.com/TavaniX/cra-burger-shop)   
 [CRA Furniture Shop](https://github.com/TavaniX/cra-shop-amado)   
