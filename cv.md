@@ -6,10 +6,12 @@ _Junior Frontend Developer_
 
 ## Contact information
 
-**Phone:** +7 916 070 56 87   
-**Email:** maksim.aisin@mail.ru   
-**GitHub:** https://github.com/TavaniX   
-**Discord RS School:** Maksim Aisin (@TavaniX)   
+|  |  | 
+|-----------|-----------|  
+| Phone | +7 916 070 56 87 | 
+| Email | maksim.aisin@mail.ru |
+| GitHub | https://github.com/TavaniX |
+| Discord | Maksim Aisin (@TavaniX) |
 
 
 ## About Me
@@ -50,7 +52,7 @@ My main focus was identification of business/user needs, validation of system re
 ## Code examples
 **Descending Order**
 
-Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
+_Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number._
 
 ```
 function descendingOrder(n){
