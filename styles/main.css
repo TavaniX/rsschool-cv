@@ -460,7 +460,7 @@ main .container {
 }
 
 main .container .section-container {
-    box-shadow: var(--shadow-3);
+    box-shadow: var(--shadow-2);
     padding-left: 10px;
     margin-bottom: 20px;
 }
@@ -475,7 +475,6 @@ main .container .section-container h2 {
 .about-container {
     display: flex;
     justify-content: space-between;
-    box-shadow: var(--shadow-2);
 }
 .about-container .avatar img {
     height: 225px;
@@ -493,6 +492,15 @@ main .container .section-container h2 {
 .work p {
     color: var(--primary-200);
 }
+/* skills */
+.skills-container {
+    display: flex;
+    justify-content: space-between;
+}
+.skills-container div {
+    margin-right: 50px;
+}
+
 /* 
 =============== Footer =============== 
 */
@@ -503,7 +511,6 @@ footer {
 footer .footer-content {
     display: flex;
     height: 150px;
-    background: green;
     width: 100%;
     max-width: var(--max-width);
     box-shadow: var(--shadow-4);
