@@ -506,6 +506,10 @@ main .container .section-container h2 {
 .skills-container div {
     margin-right: 50px;
 }
+/* projects */
+.liLink {
+    padding-left: 15px;
+}
 
 /* 
 =============== Footer =============== 
