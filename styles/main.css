@@ -293,7 +293,7 @@ ul {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(54, 35, 78, 0.6);
+    background: rgba(0, 0, 0, 0.7);
     display: grid;
     place-items: center;
     visibility: hidden;
@@ -314,6 +314,30 @@ ul {
     display: grid;
     place-items: center;
     position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.contact-info-container div {
+    margin-top: 5px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+}
+.persinfo {
+    margin-bottom: 15px;
+}
+#myname {
+    margin: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#position {
+    color: var(--grey-400);
+}
+.icon-contact {
+    margin-right: 10px;
+    font-size: 20px;
+    width: 25px;
 }
 .close-btn {
     position: absolute;
@@ -324,7 +348,6 @@ ul {
     border-color: transparent;
     color: var(--red-dark);
     cursor: pointer;
-    transition: var(--transition);
 }
 .close-btn:hover {
     color: var(--red-light);
