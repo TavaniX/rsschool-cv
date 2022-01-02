@@ -1,2 +1,1 @@
-# rsschool-cv
-My Curriculum Vitae
+https://tavanix.github.io/rsschool-cv/
