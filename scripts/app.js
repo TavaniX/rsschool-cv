@@ -47,4 +47,28 @@ window.onload = () => {
             })
         })
     }
+
+    // scroll top button
+    let goTopBtn = document.querySelector('.top')
+    window.addEventListener('scroll', trackScroll)
+    goTopBtn.addEventListener('click', backToTop)
+
+    function trackScroll() {
+        let scrolled = window.pageYOffset
+        // let coords = document.documentElement.clientHeight
+
+        if (scrolled > 250) {
+            goTopBtn.classList.add('top-show')
+        }
+        if (scrolled < 250) {
+            goTopBtn.classList.remove('top-show')
+        }
+    }
+
+    function backToTop() {
+        if (window.pageYOffset > 0) {
+            window.scrollBy(0, -100)
+            setTimeout(backToTop, 0)
+        }
+    }
 }
