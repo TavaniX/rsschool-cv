@@ -437,8 +437,13 @@ main .container .section-container h2 {
 }
 code {
     color: var(--primary-100);
+    color: var(--grey-400);
+    font-style: oblique;
 }
-
+pre {
+    height: 135px;
+    margin: 0;
+}
 /* 
 =============== Footer =============== 
 */
