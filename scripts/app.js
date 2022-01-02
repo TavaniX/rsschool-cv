@@ -67,7 +67,7 @@ window.onload = () => {
 
     function backToTop() {
         if (window.pageYOffset > 0) {
-            window.scrollBy(0, -100)
+            window.scrollBy(0, -5100)
             setTimeout(backToTop, 0)
         }
     }
