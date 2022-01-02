@@ -520,8 +520,30 @@ footer {
 }
 footer .footer-content {
     display: flex;
+    justify-content: space-around;
+    align-items: center;
     height: 150px;
     width: 100%;
     max-width: var(--max-width);
     box-shadow: var(--shadow-4);
+    border-radius: var(--borderRadius);
+    background: linear-gradient(
+        to right,
+        var(--primary-800),
+        var(--primary-300)
+    );
+}
+.copyright {
+    font-size: 18px;
+    font-weight: bold;
+}
+.gitlink {
+    font-size: 45px;
+}
+.logo {
+    display: flex;
+}
+.logo img {
+    height: 100px;
+    width: 100px;
 }
