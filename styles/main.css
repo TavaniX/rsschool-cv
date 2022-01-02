@@ -106,11 +106,13 @@ h1 {
     font-weight: bold;
     /* text-align: center; */
     box-shadow: var(--shadow-4);
-    padding: 0 0 5px 15px;
+    padding: 0 0 5px 10px;
     color: var(--primary-200);
 }
 
 h2 {
+    color: white;
+    font-weight: 600;
     font-size: 1.5rem;
 }
 
@@ -469,6 +471,7 @@ main .container .section-container {
     padding-left: 10px;
     margin-top: 10px;
     margin-bottom: 20px;
+    color: var(--primary-200);
 }
 
 main .container .section-container h2 {
@@ -495,9 +498,7 @@ main .container .section-container h2 {
     color: var(--primary-200);
 }
 /* work experience */
-.work p {
-    color: var(--primary-200);
-}
+
 /* skills */
 .skills-container {
     display: flex;
@@ -509,6 +510,9 @@ main .container .section-container h2 {
 /* projects */
 .liLink {
     padding-left: 15px;
+}
+code {
+    color: var(--primary-100);
 }
 
 /* 
@@ -528,7 +532,7 @@ footer .footer-content {
     box-shadow: var(--shadow-4);
     border-radius: var(--borderRadius);
     background: linear-gradient(
-        to right,
+        to bottom right,
         var(--primary-800),
         var(--primary-300)
     );
