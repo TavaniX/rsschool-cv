@@ -211,6 +211,9 @@ ul {
 .nav-center {
     width: 90vw;
     max-width: var(--max-width);
+    position: fixed;
+    background: linear-gradient(to top, var(--primary-800), var(--primary-300));
+    border-radius: var(--borderRadius);
 }
 .nav-header {
     height: 6rem;
@@ -220,6 +223,7 @@ ul {
 }
 .nav-header img {
     height: 3.7rem;
+    border-radius: var(--borderRadius);
 }
 .nav-logo {
     display: flex;
@@ -456,13 +460,13 @@ footer .footer-content {
     justify-content: space-between;
     padding: 10px;
     align-items: center;
-    height: 150px;
+    height: 100px;
     width: 100%;
     max-width: var(--max-width);
     box-shadow: var(--shadow-4);
     border-radius: var(--borderRadius);
     background: linear-gradient(
-        to bottom right,
+        to bottom,
         var(--primary-800),
         var(--primary-300)
     );
