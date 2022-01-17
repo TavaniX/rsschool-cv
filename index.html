@@ -4,12 +4,405 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" href="./css/style.css" />
-        <title>Aisin M. | CV | RSSchool</title>
+        <!-- font-awesome -->
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+        />
+        <!-- fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,400;1,400;1,500&display=swap"
+            rel="stylesheet"
+        />
+        <!-- normalize -->
+        <link rel="stylesheet" href="./styles/normalize.css" />
+        <!-- main css -->
+        <link rel="stylesheet" href="./styles/main.css" />
+        <!-- scripts -->
+        <script src="./scripts/app.js"></script>
+        <title>CV | Aisin M.</title>
     </head>
-    <body>
-        <div class="container">
-            <h1>CV: Aisin M.</h1>
+    <body id="top">
+        <nav class="navbar">
+            <div class="nav-center">
+                <!-- header -->
+                <div class="nav-header">
+                    <button class="btn nav-btn" type="button">
+                        <i class="fas fa-align-justify"></i>
+                    </button>
+                </div>
+                <!-- links -->
+                <div class="nav-links">
+                    <a href="#anchorAbout" class="nav-link">about me</a>
+                    <a href="#anchorWork" class="nav-link">work experience</a>
+                    <a href="#anchorSkills" class="nav-link">skills</a>
+                    <a href="#anchorCode" class="nav-link">code style</a>
+                    <a href="#anchorProjects" class="nav-link">projects</a>
+                    <a href="#anchorCourses" class="nav-link">courses</a>
+                    <a href="#anchorEducation" class="nav-link">education</a>
+                    <a href="#anchorLanguages" class="nav-link">languages</a>
+                    <div class="btn-wrapper">
+                        <!-- <div class="nav-link contact-link"> -->
+                        <div class="btn btn-contact">contact</div>
+                        <!-- </div> -->
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!-- contact window -->
+        <div class="modal-overlay">
+            <div class="modal-container">
+                <div class="persinfo">
+                    <h3 id="myname">Maksim Aisin</h3>
+                    <span id="position">Junior Frontend Developer</span>
+                </div>
+                <div class="contact-info-container">
+                    <div>
+                        <i class="fas fa-mobile-alt icon-contact"></i
+                        ><span>+7 916 070 56 87</span>
+                    </div>
+                    <div>
+                        <i class="far fa-envelope icon-contact"></i
+                        ><span>maksim.aisin@mail.ru</span>
+                    </div>
+                    <div>
+                        <i class="fab fa-github icon-contact"> </i
+                        ><span
+                            ><a
+                                href="https://github.com/TavaniX"
+                                target="_blank"
+                                >TavaniX</a
+                            ></span
+                        >
+                    </div>
+                    <div>
+                        <i class="fab fa-discord icon-contact"></i
+                        ><span>TavaniX</span>
+                    </div>
+                </div>
+                <button class="close-btn">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
         </div>
+        <!-- main -->
+        <main>
+            <div class="container">
+                <section>
+                    <h1>Curriculum Vitae</h1>
+                </section>
+                <section class="section-container about" id="anchorAbout">
+                    <h2>about me</h2>
+                    <div class="about-container">
+                        <div class="avatar">
+                            <img src="./images/avatar.jpg" alt="Maksim Aisin" />
+                        </div>
+                        <div class="contact-info">
+                            <span>Hi, my name is Maksim.</span>
+                            <span>
+                                I've been studying web development since 2020.
+                                Since then I have gained solid understanding of
+                                the software development life cycle, various
+                                development methodologies (Agile values and
+                                Scrum approach), version control management
+                                systems (Git), QA principles, the structures of
+                                the client server applications, and the
+                                structure of the request / response and the HTTP
+                                methods. Of course as I'm interested in frontend
+                                development I enjoy learning HTML/CSS/JS a lot
+                                (please see some of projects here). I'm ready to
+                                compensate the lack of work experience in web
+                                development by quick learning, curiosity,
+                                perseverance, high productivity and
+                                communication skills. I'm a strong team player.
+                            </span>
+                        </div>
+                    </div>
+                </section>
+                <section class="section-container work" id="anchorWork">
+                    <h2>work experience</h2>
+                    <p>
+                        My work experience is basically related to HR function
+                        (in FMCG, Retail, International airport) – I’ve been
+                        working in budgeting and reporting streams starting from
+                        2014 on various positions (beginning as specialist,
+                        growing to a head of department with 4 direct reports).
+                    </p>
+                    <p>
+                        During my career I have been always participating in
+                        cross-functional IT projects on implementation of new
+                        systems and tools or upgrade to a new version. My main
+                        focus was identification of business/user needs,
+                        validation of system requirements specification, testing
+                        (functional, regression and integration testing),
+                        analysis of defects and control of their fixing, user
+                        acceptance testing and preparation for product
+                        deployment (communication campaign, writing user manuals
+                        and conducting end-user trainings).
+                    </p>
+                    <p>
+                        But it started to seem to me complicated (building and
+                        deploying standalone applications) after one project,
+                        where we developed a solution, which allowed to use web
+                        browser. That was the moment when I started to take a
+                        deep interest in web development and my journey began!
+                    </p>
+                </section>
+                <section class="section-container skills" id="anchorSkills">
+                    <h2>skills</h2>
+                    <div class="skills-container">
+                        <div class="first">
+                            <ul>
+                                <li>
+                                    <i class="fab fa-html5 skillIcons"></i>HTML5
+                                </li>
+                                <li>
+                                    <i class="fab fa-css3-alt skillIcons"></i
+                                    >CSS3
+                                </li>
+                                <li>
+                                    <i class="fab fa-js-square skillIcons"></i
+                                    >JavaScript (ES6)
+                                </li>
+                                <li>
+                                    <i class="fab fa-react skillIcons"></i>React
+                                    (with Redux)
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="second">
+                            <div class="icon-stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                                <i class="far fa-star"></i>
+                            </div>
+                            <div class="icon-stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                                <i class="far fa-star"></i>
+                            </div>
+                            <div class="icon-stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                                <i class="far fa-star"></i>
+                            </div>
+                            <div class="icon-stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                            </div>
+                        </div>
+                        <div class="third">
+                            <ul>
+                                <li>
+                                    <i class="fab fa-git-alt skillIcons"></i>Git
+                                </li>
+                                <li>
+                                    <i class="fab fa-node-js skillIcons"></i
+                                    >NodeJS
+                                </li>
+                                <li>
+                                    <i class="fas fa-database skillIcons"></i
+                                    >SQL (MySQL, PostgreSQL, MongoDB)
+                                </li>
+                                <li>
+                                    <i
+                                        class="fas fa-code skillIcons devIcon"
+                                    ></i
+                                    >Understanding of software development
+                                    lifecycle
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="fourth">
+                            <div class="icon-stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                            </div>
+                            <div class="icon-stars">
+                                <i class="fas fa-star"></i>
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                            </div>
+                            <div class="icon-stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                            </div>
+                            <div class="icon-stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                                <i class="far fa-star"></i>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="section-container code" id="anchorCode">
+                    <h2>code style</h2>
+                    <p><em>Descending Order</em></p>
+                    <p>
+                        Your task is to make a function that can take any
+                        non-negative integer as an argument and return it with
+                        its digits in descending order. Essentially, rearrange
+                        the digits to create the highest possible number.
+                    </p>
+                    <pre>
+                        <code>
+    function descendingOrder(n){
+        return parseInt([...n.toString()].sort().reverse().join(''))
+    }
+                        </code>
+                    </pre>
+                </section>
+                <section class="section-container projects" id="anchorProjects">
+                    <h2>projects</h2>
+                    <ul>
+                        <li>
+                            <a
+                                href="https://github.com/TavaniX/tavanix.github.io"
+                                target="_blank"
+                                class="a-link"
+                                >Vanilla JS</a
+                            >
+                        </li>
+                        <li>
+                            <a
+                                href="https://github.com/TavaniX/cra-burger-shop"
+                                target="_blank"
+                                class="a-link"
+                                >CRA Burger Shop</a
+                            >
+                        </li>
+                        <li>
+                            <a
+                                href="https://github.com/TavaniX/cra-shop-amado"
+                                target="_blank"
+                                class="a-link"
+                                >CRA Furniture Shop</a
+                            >
+                        </li>
+                    </ul>
+                </section>
+                <section class="section-container courses" id="anchorCourses">
+                    <h2>courses</h2>
+                    <ul>
+                        <li>
+                            <a
+                                href="https://rs.school/js-stage0/"
+                                target="_blank"
+                                class="a-link"
+                                >RS Schools Course «JavaScript/Frontend. Stage
+                                0»</a
+                            >
+                            (in progress)
+                        </li>
+                        <li>
+                            <a
+                                href="https://www.udemy.com/course/javascript-tutorial-for-beginners-w/"
+                                target="_blank"
+                                class="a-link"
+                                >Udemy</a
+                            >
+                            (in progress)
+                        </li>
+                        <li>
+                            HackerU: Fullstack Web Developer:
+                            <ol>
+                                <li class="liLink">
+                                    <a
+                                        href="https://disk.yandex.ru/i/v_Waa1o6LU5q0g"
+                                        target="_blank"
+                                        class="a-link"
+                                        >Certificate</a
+                                    >
+                                </li>
+                                <li class="liLink">
+                                    <a
+                                        href="https://disk.yandex.ru/i/9Ia2_Gro3q2odQ"
+                                        target="_blank"
+                                        class="a-link"
+                                        >Diploma</a
+                                    >
+                                </li>
+                            </ol>
+                        </li>
+                    </ul>
+                </section>
+                <section
+                    class="section-container education"
+                    id="anchorEducation"
+                >
+                    <h2>education</h2>
+                    <span
+                        ><b>
+                            2015 - Computer Training Center "Specialist" at
+                            Bauman Moscow State Technical University
+                        </b></span
+                    ><br />
+                    <span><i>Database development and administration</i></span>
+                    <span
+                        ><br /><br /><b>
+                            2012 - Moscow Humanitarian-Economic Institute,
+                            Moscow
+                        </b></span
+                    ><br />
+                    <span><i>Master's degree in Finance, Economist</i></span>
+                </section>
+                <section
+                    class="section-container languages"
+                    id="anchorLanguages"
+                >
+                    <h2>languages</h2>
+                    <ul>
+                        <li>English - fluent</li>
+                        <li>Russian - native</li>
+                    </ul>
+                </section>
+            </div>
+        </main>
+        <!-- footer -->
+        <footer class="section-container">
+            <div class="footer-content">
+                <div class="copyright">&copy; 2021 by Maksim Aisin</div>
+                <div class="gitlink">
+                    <a
+                        href="https://github.com/TavaniX"
+                        target="_blank"
+                        class="a-link"
+                    >
+                        <i class="fab fa-github"></i>
+                    </a>
+                </div>
+                <div class="logo">
+                    <a href="https://rs.school/js/" target="_blank">
+                        <img
+                            src="https://rs.school/images/rs_school_js.svg"
+                            alt="RS School"
+                    /></a>
+                </div>
+            </div>
+        </footer>
+        <a href="#" class="top" title="top">
+            <i class="fas fa-caret-square-up"></i>
+        </a>
     </body>
 </html>
