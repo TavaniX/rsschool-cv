@@ -317,6 +317,7 @@ ul {
     position: relative;
     display: flex;
     flex-direction: column;
+    border-radius: var(--borderRadius);
 }
 .contact-info-container div {
     margin-top: 5px;
