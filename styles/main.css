@@ -488,7 +488,7 @@ footer {
 }
 footer .footer-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding: 10px;
     align-items: center;
     height: 100px;
